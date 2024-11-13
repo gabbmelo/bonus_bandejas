@@ -45,7 +45,7 @@ qual categoria de produto o barista pode recomendar ao cliente, com base
 no que ele já escolheu. As demais bandejas servem como parâmetros para
 avaliação comercial da operação e de desempenho da equipe.
 
-## Missão e valores da Cafeteria Montese (relembre)
+## Missão e valores da Cafeteria Montese
 
 O consumidor nos procura para fazer uma pausa no meio de seu dia
 corrido, ou pelo simples desejo de comer e beber bem. É aquele café
@@ -55,7 +55,7 @@ nossa cafeteria será proporcionar um momento prazeroso ao
 cliente]{.underline}. Em caso de dúvidas sobre como agir, paute-se
 sempre por esse princípio.
 
-## Construção de uma experiência focada na visão do cliente (relembre)
+## Construção de uma experiência focada na visão do cliente
 
 O atendimento é um grande diferencial na construção de uma experiência
 positiva com foco na visão do cliente. Cliente que adquire um produto

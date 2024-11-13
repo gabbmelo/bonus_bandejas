@@ -147,25 +147,16 @@ Assim, é importante entendê-lo bem a fim de o aplicar corretamente.
 
 ### A bandeja ideal e a meta de vendas:
 
-A bandeja ideal é aquela em que o cliente pede pelo menos um item de
-cada **categoria** a seguir:
+A bandeja ideal é aquela em que o cliente pede pelo menos um item de cada **categoria** a seguir:
 
-  --------------------------------------------------------------------------------------
-  **Categoria**     **Subcategoria**        **Ticket médio de produtos      **Código da
-                                        disponíveis (PL6, maio/23)**      categoria**
-  ----------------- ------------------- ---------------------------------- --------------
-  Bebidas                ---                 R\$ 14,07                         B
-
-  Comidas               Simples              R\$ 10,69                         F
-
-                        Combos*              R\$ 17,88                         K
-
-                        Desserts             R\$ 20,02                         D
-
-  Personalização        ---                  R\$ 2,69                          P
-
-  Água                  ---                  R\$ 12,39                         A
-  --------------------------------------------------------------------------------------
+  | **Categoria**    | **Subcategoria** | **Ticket médio de produtos disponíveis (PL6, maio/23)** | **Código da categoria** |
+  |------------------|------------------|---------------------------------------------------------|-------------------------|
+  | Bebidas          | ---              | R\$ 14,07                                               | B                       |
+  | Comidas          | Simples          | R\$ 10,69                                               | F                       |
+  |                  | Combos*          | R\$ 17,88                                               | K                       |
+  |                  | Desserts         | R\$ 20,02                                               | D                       |
+  | Personalização   | ---              | R\$ 2,69                                                | P                       |
+  | Água             | ---              | R\$ 12,39                                               | A                       |
 
 
 \*Valor do combo é contabilizado como a média aritmética de bebidas e

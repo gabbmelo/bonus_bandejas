@@ -148,24 +148,25 @@ Assim, é importante entendê-lo bem a fim de o aplicar corretamente.
 ### A bandeja ideal e a meta de vendas:
 
 A bandeja ideal é aquela em que o cliente pede pelo menos um item de
-cada **[categoria]{.underline}** a seguir:
+cada **categoria** a seguir:
 
   --------------------------------------------------------------------------------------
-  **Categoria**     **Subcategoria**      **[Ticket médio de produtos      **Código da
-                                      disponíveis (PL6,maio/23)]{.mark}**  categoria**
-  ---------------- ------------------ ----------------------------------- --------------
-  Bebidas                \-\--                [R\$ 14,07]{.mark}                B
+  **Categoria**     **Subcategoria**        **Ticket médio de produtos      **Código da
+                                        disponíveis (PL6, maio/23)**      categoria**
+  ----------------- ------------------- ---------------------------------- --------------
+  Bebidas                ---                 R\$ 14,07                         B
 
-  Comidas               Simples               [R\$ 10,69]{.mark}                F
+  Comidas               Simples              R\$ 10,69                         F
 
-                        Combos\*              [R\$ 17,88]{.mark}                K
+                        Combos*              R\$ 17,88                         K
 
-                        Desserts              [R\$ 20,02]{.mark}                D
+                        Desserts             R\$ 20,02                         D
 
-  Personalização         \-\--                 [R\$ 2,69]{.mark}                P
+  Personalização        ---                  R\$ 2,69                          P
 
-  Água                   \-\--                 [R\$12,39]{.mark}                A
+  Água                  ---                  R\$ 12,39                         A
   --------------------------------------------------------------------------------------
+
 
 \*Valor do combo é contabilizado como a média aritmética de bebidas e
 comidas
